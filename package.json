@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/nandubatchu/open-server-hello-world#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
